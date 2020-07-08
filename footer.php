@@ -18,14 +18,14 @@
                   <input type="text" class="form-control" placeholder="Email *">
                 </div>
                 <div class="col">
-                  <button type="submit" class="btn btn-primary mb-2">Subscribe</button>
+                  <button type="submit" class="btn btn-outline-light my-2 my-sm-0 text-black">Subscribe</button>
                 </div>
               </form>
             </div>
             <div class="col-lg-2 col-12">
               <h4 class="font-rubik font-size-20">Information</h4>
               <div class="d-flex flex-column flex-wrap">
-                <a href="#" class="font-rale font-size-14 text-white-50 pb-1">About Us</a>
+                <a href="http://localhost/SitoEcommerce/about.php" class="font-rale font-size-14 text-white-50 pb-1">About Us</a>
                 <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Delivery Information</a>
                 <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Privacy Policy</a>
                 <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Terms & Conditions</a>
@@ -47,6 +47,8 @@
 <!--/Start #Footer-->
 
 
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<script src="index.js"></script>
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js" integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" crossorigin="anonymous"></script>

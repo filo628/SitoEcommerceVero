@@ -35,14 +35,14 @@
             <p class="font-rale font-size-12 text-black-50 m-0">Filippo Maltoni</p>
             <div class="font-rale font-size-14">
                 <a href="#" class="px-3 border-rigth border-left text-dark">Login</a>
-                <a href="#" class="px-3 border-rigth border-left text-dark">WishList(0)</a>
+                <a href="http://localhost/SitoEcommerce/cart.php" class="px-3 border-rigth border-left text-dark">WishList</a>
             </div>
         </div>
 
 
         <!--Primary Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark color-second-bg">
-            <a class="navbar-brand" href="#">Online Mobile Store</a>
+            <a class="navbar-brand" href="http://localhost/SitoEcommerce/index.php">Online Mobile Store</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
